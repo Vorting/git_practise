@@ -1,3 +1,3 @@
 # git_practise
 Test
-Add 2nd line
+2nd line
